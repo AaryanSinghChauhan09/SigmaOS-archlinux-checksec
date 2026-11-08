@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-checksec"
+name = "sigmaos_archlinux_checksec"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-checksec component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-checksec component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-checksec"
+name = "sigmaos_archlinux_checksec"
 path = "src/lib.rs"
